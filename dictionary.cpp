@@ -1,3 +1,7 @@
+/*
+*  Pseudocode: <INSERT HERE>
+*
+*/
 #include <string>
 
 int min_word_length(string words[]) {
