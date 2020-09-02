@@ -1,3 +1,7 @@
+/*
+*  Pseudocode: <INSERT HERE>
+*
+*/
 #include <iostream>
 #include <string>
 
